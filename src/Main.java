@@ -3,7 +3,5 @@ public class Main {
         int ticket = 1000;
         int miles = 20;
         System.out.println(ticket / miles);
-
-
     }
 }
